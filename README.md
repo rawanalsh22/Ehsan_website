@@ -4,7 +4,7 @@ project 2 : Web Scraping and Linear Regression Project
   
   
 ## Background
-In this project, we will use data from the (Ehsan) website it is a national platform that work to collecting donations for cases , Which shows us difficult cases whit details and that need a donate money. 
+In this project, we will use data from the [Ehsan](https://ehsan.sa/tyassarat?p=1) website it is a national platform that work to collecting donations for cases , Which shows us difficult cases whit details and that need a donate money. 
 Our goal from this project is to build a linear regression model that predict how many days need to complete the each case.
   
     
@@ -17,7 +17,7 @@ In this project, We used data for cases donate from saudi arabia,
 |Invoice number       |Each person has a unique invoice number                                                                     |
 |Debt                 |The amount owed by the person, Which must be paid in order to end the case                                  |
 |Rest of debt         |Remaining amount of debt to be repaid                                                                       |
-|Donation amount         |The amount collected and donated by website visitors, in order to complete the debt amount                  |
+|Donation amount      |The amount collected and donated by website visitors, in order to complete the debt amount               |
 |                     |                                                          |
 |               	    |                                                          |
 |             	      |                                                          |
