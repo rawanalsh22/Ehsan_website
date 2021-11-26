@@ -13,7 +13,8 @@ Our goal from this project is to build a linear regression model that predict ho
 
 
 ## Data Description 
-In this project, we used data on donations from Saudi Arabia, we'll see the type of cases, the number of days we're expected to spend on the type of debt, the number of donors, and the fastest type of cases that pay off their debt.That all the data from [Ehsan](https://ehsan.sa/tyassarat?p=1)
+In this project, we used data on donations from Saudi Arabia, we'll see the type of cases, the number of days we're expected to spend on the type of debt, the number of donors, and the fastest type of cases that pay off their debt.
+That all the data from [Ehsan](https://ehsan.sa/tyassarat?p=1)
    
 
 | Field Name          | Description                                                                                                |
