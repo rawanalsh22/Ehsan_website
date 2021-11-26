@@ -17,7 +17,7 @@ In this project, We used data for cases donate from saudi arabia,
 |Invoice number       |Each person has a unique invoice number                                                                     |
 |Debt                 |The amount owed by the person, Which must be paid in order to end the case                                  |
 |Rest of debt         |Remaining amount of debt to be repaid                                                                       |
-|Donation amount      |The amount collected and donated by website visitors, in order to complete the debt amount                  |
+|Donation amount         |The amount collected and donated by website visitors, in order to complete the debt amount                  |
 |                     |                                                          |
 |               	    |                                                          |
 |             	      |                                                          |
