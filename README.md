@@ -9,18 +9,18 @@ In this project, We used data for cases donate from saudi arabia,....
 
 
 ## tools
-- Technologies
+#### Technologies
 
->- Python
--- Jupyter 
--- Notebook
+* Python
+* Jupyter 
+* Notebook
 
-- Libraries
-
-Pandas
-NumPy
-Seaborn
-Matplotlib
-Requests
-sklearn
-BeautifulSoup
+#### Libraries
+* Pandas
+* NumPy
+* Seaborn
+* Matplotlib
+* Plotly
+* Requests
+* Sklearn
+* BeautifulSoup
