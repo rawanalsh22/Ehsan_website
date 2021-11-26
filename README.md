@@ -17,13 +17,15 @@ In this project, We used data for cases donate from saudi arabia,
 |Invoice number       |Each person has a unique invoice number                                                                     |
 |Debt                 |The amount owed by the person, Which must be paid in order to end the case                                  |
 |Rest of debt         |Remaining amount of debt to be repaid                                                                       |
-|Donation amount      |The amount collected and donated by website visitors, in order to complete the debt amount               |
-|                     |                                                          |
-|               	    |                                                          |
-|             	      |                                                          |
-|                     |                                                          |
-|                     |                                                          |
-|                     |                                                          |
+|Donation amount      |The amount collected and donated by website visitors, in order to complete the debt amount                  |
+|vratio               | Complete full amount by percentage                                                                         |
+|Social Status        | Single, Married or Divorced                                                                                |
+|Gender               |Male or Female                                                                                              |
+|Number of visits     | Number of person visits of an one donation                                                                 |
+|Number of donors     |Number of person donation                                                                                   | 
+|Timing of the Donation|Time for last donation have it                                                                             |
+
+
 
 
 >- Number of rows = 769 rows.
