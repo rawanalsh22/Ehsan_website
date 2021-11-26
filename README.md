@@ -11,7 +11,7 @@ In this project, We used data for cases donate from saudi arabia,....
 ## tools
 - Technologies
 
--- Python
+>- Python
 -- Jupyter 
 -- Notebook
 
